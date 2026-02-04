@@ -125,6 +125,7 @@ After completing the installation steps above, simply follow the steps below to 
    console logs to check on the progress.
 
 To open n8n at any time, visit <http://localhost:5678/> in your browser.
+The Qdrant URL for N8N is: <http://qdrant:6333>
 
 With your n8n instance, you’ll have access to over 400 integrations and a
 suite of basic and advanced AI nodes such as
